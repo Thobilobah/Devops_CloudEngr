@@ -301,7 +301,7 @@ phpinfo();
 ![add_valid_code](https://github.com/Thobilobah/Devops_CloudEngr/blob/master/1.LAMP_Stack/images/24.add_valid_code_inside_index.php%20file_.png)
 
 ### 4. Refresh the page and note down any change you observe
-![verify_running_php]https://github.com/Thobilobah/Devops_CloudEngr/blob/master/1.LAMP_Stack/images/25.%20verify_index.php_is_running.png
+![verify_running_php](https://github.com/Thobilobah/Devops_CloudEngr/blob/master/1.LAMP_Stack/images/25.%20verify_index.php_is_running.png)
 
 The page served here provides you with information about the server from the perspective of PHP. This is very useful in terms of debugging and to make sure that all necessary settings are applied correctly.
 
